@@ -14,3 +14,9 @@ vendor/
 /.gocache
 
 .vscode/
+
+.env
+.env.*
+**/.env
+**/.env.*
+
